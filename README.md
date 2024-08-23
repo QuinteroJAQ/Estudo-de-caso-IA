@@ -1,7 +1,7 @@
 @@ -2,53 +2,76 @@
 
-Fala pessoal, essa é a Ana, uma assistente pessoal virtual que escuta os seus comandos de voz e executa-os!
-
+Oi Boa tarde!
+A seguir, apresenta-se uma ordem recomendada para visualizar, instalar e analisar o código:
 ### Features:
 * ⌚ Que horas são
 * 🔎 Pesquisa no Google
