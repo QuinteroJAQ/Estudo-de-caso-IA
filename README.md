@@ -1,95 +1,91 @@
 @@ -2,53 +2,76 @@
 
-Oi Boa tarde!
-A seguir, apresenta-se uma ordem recomendada para visualizar, instalar e analisar o código:
+Oi Bom dia!
+A seguir, apresenta-se uma ordem recomendada para visualizar e analisar o estudo de caso:
 ### Features:
-* ⌚ Que horas são
-* 🔎 Pesquisa no Google
-* 🪙 Cotação de dólar, euro e bitcoin
-* 📰 Últimas 5 notícias do momento
-* 📽️ 5 filmes mais populares do momento
-* 🎧 Abrir a melhor música, banda e álbum do mundo no Spotify
-* 💤 Desligar computador em 1 hora ou meia hora
-* ❌ Cancelar desligamento do computador
-* 🙋🏽‍♀️ Fechar a assistente
+* Referências🔎 A pesquisa foi realizada 95% no https://chatgpt.com/
+* 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br
 
-### Tecnologias utilizadas:
-## Features:
-* **⌚ Horário atual:** "Que horas são?"<br>
-* **🔎 Pesquisa no Google:** "Pesquisar objeto no Google"<br>
-* **🪙 Cotação de dólar, euro e bitcoin:** "Qual a cotação do dólar no momento?"<br>
-* **📰 Últimas 5 notícias do momento:** "Quais as últimas notícias?"<br>
-* **📽️ 5 filmes mais populares do momento:** "Quais os filmes mais populares no momento?"<br>
-* **🎧 Abrir a melhor música, banda e álbum do mundo no Spotify:** "Qual a melhor música do mundo?"<br>
-* **⛅ Clima/tempo:** "Clima em São Paulo"<br>
-* **🔃 Tradutor para inglês e português:** "Traduzir para o inglês"<br>
-* **📒 Criar e visualizar lembretes:** "Criar novo lembrete" ou "Visualizar lembretes"<br>
-* **💻 Abrir programar na sua máquina:** "Abrir Discord"<br>
-* **💤 Desligar computador em 1 hora ou meia hora:** "Desligar computador em uma hora"<br>
-* **❌ Cancelar desligamento do computador:** "Cancelar desligamento"<br>
-* **🙋🏽‍♀️ Fechar a assistente:** "Fechar assistente"
+## Estrutura do documento
+1. CONTEXTUALIZAÇÃO DO ESTUDO DE CASO: PROBLEMA
+1.1.1 Justificativa do projeto:
+Explicação do motivo pelo qual o projeto é relevante e necessário.
+1.1.2 Abordagem:
+Descrição da abordagem adotada para o estudo.
+1.1.3 Objetivo Geral:
+Definição do objetivo principal do projeto.
+1.1.3.1 Objetivos específicos:
+Metas detalhadas que suportam o objetivo geral.
+1.1.3.2 Foco do trabalho:
+Precisão sobre o foco e os limites do estudo.
+1.1.4 Etapas da análise:
+Descrição das etapas planejadas para a análise dos dados.
+2. DESENVOLVIMENTO DO ESTUDO DE CASO
+2.1.1 Análise preliminar dos dados:
+Primeiro exame dos dados para identificar características básicas e problemas.
+2.1.2 Análise Exploratória dos dados, corresponde à parte I, dados sem tratamento:
+Investigação inicial dos dados sem tratamento para descobrir padrões e anomalias.
+2.1.3 Definição dos Requisitos – Coleta e análise de dados:
+Identificação dos requisitos para a coleta e análise dos dados.
+2.1.4 Detalhamento técnico do problema:
+Descrição técnica do problema em questão.
+2.1.5 Método de análise:
+Explicação dos métodos e técnicas utilizadas para analisar os dados.
+2.1.6 Coleta e preparação de dados:
+Procedimentos para coleta e preparação dos dados para análise.
+2.1.7 Desenvolvimento do Modelo de IA:
+Processo de criação e treinamento do modelo de Inteligência Artificial.
+3. RESULTADOS E DISCUSSÕES
+Apresentação dos resultados obtidos e discussão dos achados.
+4. CONSIDERAÇÕES FINAIS
+Resumo das conclusões, implicações dos resultados e sugestões para trabalhos futuros.
+5. REFERÊNCIAS
+Lista de todas as fontes e bibliografia consultadas.
+ANEXO 1. CÓDIGO RESUMIDO
+
 
 ## Tecnologias utilizadas:
 
 * [Python](https://www.python.org/): linguagem de programação
-* [Speech Recognition](https://pypi.org/project/SpeechRecognition/): reconhecimento de voz
-* [gTTS](https://pypi.org/project/gTTS/): sintetização de voz
-* [Playsound](https://pypi.org/project/playsound/): executador de áudio
-* [Beautiful Soup 4](https://pypi.org/project/beautifulsoup4/): para leitura de páginas elementos em páginas web
-* [Translate](https://pypi.org/project/translate/)
-* Outras: os, sys, webbrowser, urllib.request, json, datetime, requests
+* Ambientes de Desenvolvimento: Visual Basic / Jupiter
+* Bibliotecas e Frameworks de Análise de Dados e Modelagem: Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
+## Outras Ferramentas e Tecnologias: TeXstudio
 
 ### Como executar:
-## Como executar:
 
-**1. Instale `Python` na sua máquina, por meio [deste link](https://www.python.org/)**
-### **1. Instale `Python` na sua máquina, por meio [deste link](https://www.python.org/)**
+**1. Instale `Python` no seu computador, por meio [deste link](https://www.python.org/)**
 
-**2. Faça um clone [desse repositório](https://github.com/rafaballerini/AssistentePessoal.git) na sua máquina:**
-### **2. Faça um clone [desse repositório](https://github.com/rafaballerini/AssistentePessoal.git) na sua máquina:**
+**2. Faça uma copia de [desse repositório](https://github.com/rafaballerini/AssistentePessoal.git) na sua máquina:**
 
-* Crie uma pasta no seu computador para esse programa, recomendo colocar o nome **Assistente Pessoal**
+* Crie uma pasta no seu computador para esse programa, recomendo colocar no C:
 * Abra o `git bash` ou `terminal` dentro dessa pasta
 * Copie a [URL](https://github.com/rafaballerini/AssistentePessoal.git) do repositório
 * Digite `git clone <URL copiada>` e pressione `enter`
 
-**3. Instale as bibliotecas necessárias pelo terminal, dentro dessa pasta criada:**
-### **3. Instale as bibliotecas necessárias pelo terminal, dentro dessa pasta criada:**
+**3. Instale as bibliotecas necessárias pelo terminal a medida que vai rodando o codigo**
 
-* gTTS: `pip install gTTS`
-* playsound: `pip install playsound`
-* beautiful soup 4: `pip install beautifulsoup4`
-* speech recognition: `pip install SpeechRecognition`
-* translate: `pip install translate`
-caso apareça algum erro referente a alguma das bibliotecas importadas no programa, jogue o nome dela no Google e faça a instalação e passo a passo necessários
+* Instale com: `pip install`
+* pip install pandas
+* pip install numpy
+* pip install matplotlib
+* pip install seaborn
+* pip install plotly
+* pip install scikit-learn
+* pip install tensorflow
+* pip install keras
+* pip install xgboost
+* pip install nltk
+* pip install spacy
+* pip install torch
+* pip install statsmodels
+* pip install prophet
+* pip install requests
+* pip install beautifulsoup4
+* pip install opencv-python
+* pip install pyarrow
+caso apareça algum erro referente a alguma das bibliotecas importadas no programa, jogue o nome dela no ChatGPT e faça a instalação e o passo a passo necessário
 
-**4. Crie sua chave para a API de filmes:**
-### **4. Baixe a ferramenta de lembretes:**
-* Acesse o [Notezilla](https://www.conceptworld.com/Notezilla) e faça o download
-* Utilize o caminho `C:\Program Files\Conceptworld\Notezilla` para instalação
+**4. Execute o codigo nn seu PC:**
 
-### **5. Crie sua chave para as APIs:**
 
-**API de filmes:**
-* Acesse o [The Movie DataBase](https://www.themoviedb.org/) e faça seu cadastro
-* Em configurações, acesse API e crie uma nova chave
-* Copie a chave e cole na URL da linha 54 do código, substituindo a frase `<suachaveapi>`
-* Copie a chave e cole no `token` da função `filmes()`, substituindo a frase `<suachaveapi>`
 
-**API de clima:**
-* Acesse o [Open Wheather Map](https://openweathermap.org/) e faça seu cadastro
-* Confirme o email recebido e em configurações, acesse suas API Keys
-* Copie a chave e cole no `token` da função `clima()`, substituindo a frase `<suachaveapi>`
-
-### **6. Preencha os caminhos dos programas na sua máquina:**
-* Pesquise os caminhos dos seguintes programas executáveis na sua máquina: Google Chrome, Visual Studio, Visual Studio Code, Discord e Notion
-* Abaixo do comentário `abrir programas do computador`, cole o respectivo caminho em cada chamada de função
-* Exemplo: `os.startfile("C:\Program Files\Google\Chrome\Application\chrome.exe")`
-* Caso queira adicionar ou deletar algum programa, faça isso utilizando o padrão do código
-
-**5. Execute o programa pelo terminal:**
-### **7. Execute o programa pelo terminal:**
-* Digite `python assistente.py`
-
-### Estudos:
-## Estudos:
