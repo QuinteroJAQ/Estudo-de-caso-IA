@@ -1,9 +1,9 @@
-@@ -2,53 +2,76 @@
+@@ VALE @@
 
 Oi Bom dia!
 A seguir, apresenta-se uma ordem recomendada para visualizar e analisar o estudo de caso:
 ### Features:
-* Referências🔎 A pesquisa foi realizada 95% no https://chatgpt.com/
+* Referências🔎 FIESC
 * 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br
 
 ## Estrutura do documento
@@ -55,11 +55,11 @@ ANEXO 1. CÓDIGO RESUMIDO
 
 **1. Instale `Python` no seu computador, por meio [deste link](https://www.python.org/)**
 
-**2. Faça uma copia de [desse repositório](https://github.com/rafaballerini/AssistentePessoal.git) na sua máquina:**
+**2. Faça uma copia de [desse repositório](https://github.com/QuinteroJAQ/Estudo-de-caso-IA.git) na sua máquina:**
 
 * Crie uma pasta no seu computador para esse programa, recomendo colocar no C:
 * Abra o `git bash` ou `terminal` dentro dessa pasta
-* Copie a [URL](https://github.com/rafaballerini/AssistentePessoal.git) do repositório
+* Copie a [URL](https://github.com/QuinteroJAQ/Estudo-de-caso-IA.git) do repositório
 * Digite `git clone <URL copiada>` e pressione `enter`
 
 **3. Instale as bibliotecas necessárias pelo terminal a medida que vai rodando o codigo**
@@ -69,23 +69,13 @@ ANEXO 1. CÓDIGO RESUMIDO
 * pip install numpy
 * pip install matplotlib
 * pip install seaborn
-* pip install plotly
 * pip install scikit-learn
-* pip install tensorflow
-* pip install keras
-* pip install xgboost
-* pip install nltk
-* pip install spacy
-* pip install torch
-* pip install statsmodels
-* pip install prophet
 * pip install requests
-* pip install beautifulsoup4
-* pip install opencv-python
-* pip install pyarrow
+
 caso apareça algum erro referente a alguma das bibliotecas importadas no programa, jogue o nome dela no ChatGPT e faça a instalação e o passo a passo necessário
 
 **4. Execute o codigo nn seu PC:**
 
+**5.[Documentação] (https://github.com/QuinteroJAQ/Estudo-de-caso-IA/blob/main/Estudo%20de%20Caso.pdf)**
 
 
