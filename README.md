@@ -4,7 +4,7 @@ Oi Bom dia!
 A seguir, apresenta-se uma ordem recomendada para visualizar e analisar o estudo de caso:
 ### Features:
 * Referências🔎 FIESC
-* 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br
+* 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br   [CV](http://lattes.cnpq.br/5093867616355789)
 
 ## Estrutura do documento
 1. CONTEXTUALIZAÇÃO DO ESTUDO DE CASO: PROBLEMA
@@ -76,6 +76,6 @@ caso apareça algum erro referente a alguma das bibliotecas importadas no progra
 
 **4. Execute o codigo nn seu PC:**
 
-**5.[Documentação] (https://github.com/QuinteroJAQ/Estudo-de-caso-IA/blob/main/Estudo%20de%20Caso.pdf)**
+**5.[Documentação](https://github.com/QuinteroJAQ/Estudo-de-caso-IA/blob/main/Estudo%20de%20Caso.pdf)**
 
 
