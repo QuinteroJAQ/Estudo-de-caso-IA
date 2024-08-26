@@ -4,7 +4,8 @@ Oi Bom dia!
 A seguir, apresenta-se uma ordem recomendada para visualizar e analisar o estudo de caso:
 ### Features:
 * Referências🔎 FIESC
-* 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br   [CV](http://lattes.cnpq.br/5093867616355789)
+* 🙋🏽‍♀️ Dúvidas: quintero.j.a.q@posgrad.ufsc.br
+* [Curriculum Vitae](http://lattes.cnpq.br/5093867616355789)
 
 ## Estrutura do documento
 1. CONTEXTUALIZAÇÃO DO ESTUDO DE CASO: PROBLEMA
